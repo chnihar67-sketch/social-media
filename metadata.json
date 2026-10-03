@@ -1,0 +1,6 @@
+{
+  "name": "SocialPulse",
+  "description": "Unified social media analytics dashboard for creators, students, and businesses across YouTube, Instagram, and X.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
